@@ -1,0 +1,17 @@
+com\seleniumexpress\lc\api\UserRegistrationDTO.class
+com\seleniumexpress\lc\api\CommunicationDTO.class
+com\seleniumexpress\lc\config\LCAppIntializer.class
+com\seleniumexpress\lc\controller\EmailController.class
+com\seleniumexpress\lc\propertyeditor\NamePropertyEditor.class
+com\seleniumexpress\lc\formatter\PhoneNumberFormatter.class
+com\seleniumexpress\lc\Validator\UserNameValidator.class
+com\seleniumexpress\lc\api\EmailDTO.class
+com\seleniumexpress\lc\controller\RegistrationController.class
+com\seleniumexpress\lc\Validator\EmailValidator.class
+com\seleniumexpress\lc\controller\LCAppController.class
+com\seleniumexpress\lc\controller\TestController.class
+com\seleniumexpress\lc\api\Phone.class
+com\seleniumexpress\lc\Validator\Age.class
+com\seleniumexpress\lc\Validator\AgeValidator.class
+com\seleniumexpress\lc\config\LoveCalculatorAppConfig.class
+com\seleniumexpress\lc\api\UserInfoDTO.class
